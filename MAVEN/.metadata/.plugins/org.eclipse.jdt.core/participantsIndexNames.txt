@@ -1,0 +1,7 @@
+INDEX VERSION 1.130
+C:\proyectos\Work desde cero\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2976150829.index
+\sales\src\main\java
+C:\proyectos\Work desde cero\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1746738758.index
+\sales\src\main\java
+C:\proyectos\Work desde cero\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3855578201.index
+\sales\src\main\java

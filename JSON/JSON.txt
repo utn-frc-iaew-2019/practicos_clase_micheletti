@@ -1,0 +1,23 @@
+{
+  
+  "Legajo": 60277,
+	
+  "DNI":37320293,
+	
+  "Nombre": "Julian",
+	
+  "Apellido": "Micheletti",
+	
+  "MateriasAprobadas": [
+		
+	{"Nombre": "Diseño de Sistemas","Nota":6,"Fecha":'19/02/2019'},
+	
+	{"Nombre": "Teoría de Control","Nota":8,"Fecha":'23/11/2018'},
+	
+	{"Nombre": "Simulación","Nota":7,"Fecha":'03/10/2018'},
+	
+	{"Nombre": "Habilitación Profesional","Nota":7,"Fecha":'06/02/2018'}
+		
+	]
+
+}

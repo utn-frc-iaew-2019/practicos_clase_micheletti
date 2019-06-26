@@ -1,0 +1,8 @@
+Ejemplos de URI bien definidas
+-https://www.clarin.com/politica/
+-https://docs.angularjs.org/api
+https://www.nbcnews.com/nightly-news
+
+Ejemplos de URI mal definidas
+-https://www.cronica.com.ar/buscar.html
+https://www.yourhtmlsource.com/starthere/whatishtml.html
